@@ -1,5 +1,5 @@
 <html>
-  <h1 style="align:center;">Integrasi-2-Database</h1>
+  <h1 style="text-align:center;">Integrasi-2-Database</h1>
 <body>
 <table>
 <tr>
